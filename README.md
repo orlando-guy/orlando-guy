@@ -1,6 +1,6 @@
 ### Hello 👋, this is Orlando Guichard
 
-<a href="https://www.jsmastery.pro" rel="nofollow"><img src="https://github.com/orlando-guy/my-portfolio/blob/main/view/src/assets/img/portfolio_project.png" alt="Orlando Guychard Portfolio" style="max-width: 100%;"></a>
+<a href="https://my-portfolio-orlando-guy.vercel.app" rel="nofollow"><img src="https://github.com/orlando-guy/my-portfolio/blob/main/view/src/assets/img/portfolio_project.png" alt="Orlando Guychard Portfolio" style="max-width: 100%;"></a>
 
 I am passionate **web developer** living in **Douala, Cameroon**
 
