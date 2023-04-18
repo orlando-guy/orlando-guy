@@ -1,6 +1,6 @@
 ### Hello 👋, this is Orlando Guichard
 
-<a href="https://my-portfolio-orlando-guy.vercel.app" rel="nofollow"><img src="https://my-portfolio-orlando-guy.vercel.app/static/media/portfolio_cover.59cb812de5fbba85e64c.png" alt="Orlando Guychard Portfolio" style="max-width: 100%;"></a>
+<a href="https://my-portfolio-orlando-guy.vercel.app" rel="nofollow"><img src="https://my-portfolio-orlando-guy.vercel.app/static/media/portfolio_cover.59cb812de5fbba85e64c.png" alt="Orlando Guychard Portfolio" style="width: 100%;"></a>
 
 I am passionate **web developer** living in **Douala, Cameroon**
 
