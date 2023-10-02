@@ -12,4 +12,5 @@ I specialize in 🔭 developing web applications using the latest technologies s
 [What do I think? (Twitter)]: https://twitter.com/orlando_guich
 [Curriculom vitae, the path of my life (LinkedIn)]: https://www.linkedin.com/in/orlando-guychard-731a15201
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlando-guy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- There's the doc for the feature down below -->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlando-guy)](https://github.com/anuraghazra/github-readme-stats)-->
