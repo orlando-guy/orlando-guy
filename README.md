@@ -10,7 +10,7 @@ I specialize in 🔭 developing web applications using the latest technologies s
 * <img class="emoji" alt="bow_and_arrow" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f9.png"> [Curriculum vitae, the path of my life (LinkedIn)][]
 
 [What do I think? (Twitter)]: https://twitter.com/orlando_guich
-[Curriculom vitae, the path of my life (LinkedIn)]: https://www.linkedin.com/in/orlando-guychard-731a15201
+[Curriculum vitae, the path of my life (LinkedIn)]: https://www.linkedin.com/in/orlando-guychard-731a15201
 
 <!-- There's the doc for the feature down below -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlando-guy)](https://github.com/anuraghazra/github-readme-stats)-->
