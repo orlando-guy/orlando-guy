@@ -7,25 +7,25 @@
 
 I specialize in 🔭 developing web applications using the latest technologies such as **JavaScript**, **React**, **Node.js**, **PHP**, and **MongoDB**. I have a passion for creating **innovative solutions** that solve complex problems and strive to stay up-to-date on the latest trends in software development. My goal is to create **high-quality applications** that are both user-friendly and secure. In my free time, I enjoy **playing video games** and **exploring new technologies**.
 
+#### Follow me on
+
 <p align="left" dir="auto">
   <a href="https://twitter.com/guichard_dev" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ln_dev7" height="30" width="40" style="max-width: 100%;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orlando-guich x" height="30" width="40" style="max-width: 100%;">
   </a>
   <a href="https://linkedin.com/in/orlando-guychard-dev" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lndev" height="30" width="40" style="max-width: 100%;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orlando-guich-linkedIn" height="30" width="40" style="max-width: 100%;">
   </a>
   <a href="https://instagram.com/orlando_guichard" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ln_dev7" height="30" width="40" style="max-width: 100%;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="orlando-guich insta" height="30" width="40" style="max-width: 100%;">
   </a>
 </p>
 
 [Orlando-guichard-dev.me]: https://my-portfolio-orlando-guy.vercel.app/
-[What do I think? (Twitter)]: https://twitter.com/orlando_guich
-[Curriculum vitae, the path of my life (LinkedIn)]: https://www.linkedin.com/in/orlando-guychard-731a15201
 
 <!-- There's the doc for the feature down below -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlando-guy)](https://github.com/anuraghazra/github-readme-stats)-->
-### Languages and Tools:
+#### Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
