@@ -1,6 +1,6 @@
 ## Hello 👋, this is Orlando Guichard
 
-<a href="https://my-portfolio-orlando-guy.vercel.app" rel="nofollow"><img src="https://my-portfolio-orlando-guy.vercel.app/static/media/portfolio_cover.59cb812de5fbba85e64c.png" alt="Orlando Guychard Portfolio" style="width: 100%;height:500px;"></a>
+<!-- <a href="https://my-portfolio-orlando-guy.vercel.app" rel="nofollow"><img src="https://cdn.sanity.io/images/99wwfsbm/production/8e311ebb669170ee2f514af650e206a8772c5b00-519x294.png" alt="Orlando Guychard Portfolio" style="width: 100%;height:500px;"></a> -->
 
 🌴 I am passionate **web developer** living in **Douala, Cameroon**  
 📫 Find more about me here : [Orlando-guichard-dev.me][]
