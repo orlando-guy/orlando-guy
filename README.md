@@ -21,7 +21,7 @@ I specialize in 🔭 developing web applications using the latest technologies s
   </a>
 </p>
 
-[Orlando-guichard-dev.me]: https://my-portfolio-orlando-guy.vercel.app/
+[Orlando-guichard-dev.me]: https://itsorlando.vercel.app/
 
 <!-- There's the doc for the feature down below -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlando-guy)](https://github.com/anuraghazra/github-readme-stats)-->
